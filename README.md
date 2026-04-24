@@ -1,20 +1,18 @@
-# Hi
+# TryHackMe Walkthroughs
 
-This repo contains all walkthrough of TryHackMe rooms that I have completed.
-Each rooms will have its separated README.md file and its related files specific to that room such as screenshots, exploits, etc.
+This repository documents TryHackMe rooms I have completed as part of my hands-on cybersecurity training under Hexterika Cyberlab.
 
-Cheers,
-**Sangsongthong**
+Each room has its own dedicated folder containing a structured walkthrough, screenshots, and relevant files used during the exercise. Walkthroughs are written to demonstrate methodology — covering reconnaissance, enumeration, exploitation, and where applicable, post-exploitation and remediation.
+Highlight
 
-+ | Hexterika Cyberlab
-+ | Founder, CEO, and Sole Worker
+| Room | Difficulty | Note |
+| --- | --- | --- |
+| [GoldenEye](https://github.com/sangsongthong-hexterika/TryHackMe-Walkthroughs/tree/main/GoldenEye) | Medium | My first full attack-chain lab that I first worked on and recorded, although it was a guided lab. It was not just a CTF with only encoding. |
 
-## Reach Me
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai/)  
+Sangsongthong Chantaranothai
 
-[Facebook](https://www.facebook.com/share/162kohswBD/?mibextid=qi2Omg)  
-
-[Instagram](https://www.instagram.com/hexterika.cyberlab?igsh=cTRoaGxmNGxrcmMz)  
+[LinkedIn](https://www.linkedin.com/in/sangsongthong-chantaranothai-sec/)  
 
 [TryHackMe](https://tryhackme.com/p/gexter5thm)
